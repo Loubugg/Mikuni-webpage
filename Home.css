@@ -1,0 +1,2627 @@
+.u-section-3-1 {
+  background-image: url("images/mikuniweb4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-1 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-1 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-1 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-1 .u-container-layout-1 {
+  padding: 28px 30px;
+}
+
+.u-section-3-1 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-1 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-1 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.u-section-3-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-1 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-1 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-1 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-3-1 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 54px;
+    margin-bottom: 54px;
+  }
+
+  .u-section-3-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-1 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 387px;
+  }
+
+  .u-section-3-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-2 {
+  background-image: url("images/mikuniweb4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-2 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-2 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-2 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-2 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-2 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-2 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-2 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-2 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-2 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-2 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-2 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-2 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-2 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-2 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-2 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-2 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-2 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-3 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-3 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-3 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-3 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-3 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-3 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-3 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-3 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-3 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-3 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-3 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-3 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-3 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-3 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-3 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-3 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-3 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-3 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-4 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-4 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-4 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-4 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-4 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-4 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-4 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-4 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-4 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-4 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-4 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-4 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-4 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-4 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-4 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-4 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-4 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-5 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-5 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-5 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-5 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-5 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-5 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-5 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-5 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-5 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-5 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-5 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-5 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-5 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-5 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-5 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-5 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-5 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-5 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-6 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-6 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-6 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-6 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-6 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-6 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 64.6% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-6 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-6 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-6 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-6 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-6 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-6 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-6 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-6 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-6 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-6 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-6 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-6 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-7 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-7 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-7 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-7 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-7 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-7 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-7 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-7 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-7 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-7 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-7 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-7 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-7 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-7 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-7 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-7 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-7 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-7 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-7 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-7 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-8 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-8 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-8 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-8 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-8 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-8 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-8 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-8 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-8 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-8 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-8 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-8 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-8 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-8 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-8 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-8 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-8 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-8 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-8 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-8 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-9 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-9 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-9 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-9 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-9 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-9 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 94.6% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-9 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-9 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-9 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-9 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-9 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-9 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-9 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-9 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-9 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-9 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-9 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-9 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-9 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-9 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-9 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-9 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-9 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-10 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-10 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-10 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-10 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-10 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-10 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 94.6% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-10 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-10 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-10 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-10 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-10 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-10 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-10 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-10 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-10 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-10 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-10 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-10 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-10 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-10 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-10 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-10 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-10 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-11 {
+  background-image: url("images/mikuniweb3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-11 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-11 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-11 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-11 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-11 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 94.6% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-11 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-11 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-11 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-11 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-11 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-11 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-11 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-11 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-11 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-11 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-11 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-11 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-11 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-11 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-11 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-11 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-11 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-12 {
+  background-image: url("images/mikuniweb5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-12 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-12 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-12 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-12 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-12 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-12 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-12 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-12 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-12 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-12 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-12 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-12 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-12 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-12 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-12 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-12 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-12 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-12 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-12 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-12 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-12 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-12 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-13 {
+  background-image: url("images/mikuniweb5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-13 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-13 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-13 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-13 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-13 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-13 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-13 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-13 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-13 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-13 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-13 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-13 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-13 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-13 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-13 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-13 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-13 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-13 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-13 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-13 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-13 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-13 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-14 {
+  background-image: url("images/mikuniweb5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-14 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-14 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-14 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-14 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-14 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-14 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-14 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-14 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-14 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3-14 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-14 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-14 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-14 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-14 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-14 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-14 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-14 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-14 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-14 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-14 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-14 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-14 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-15 {
+  background-image: url("images/mikuniweb5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-15 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-15 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-15 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-15 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-15 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-15 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-15 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-15 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-15 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 22px 0 0;
+}
+
+.u-section-3-15 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 18px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-15 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-15 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-15 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-15 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-15 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-15 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-15 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-15 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-15 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-15 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-15 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-15 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-3-16 {
+  background-image: url("images/mikuniweb5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-16 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-3-16 .u-layout-wrap-1 {
+  width: 968px;
+  margin: 107px auto 0;
+}
+
+.u-section-3-16 .u-layout-cell-1 {
+  min-height: 293px;
+}
+
+.u-section-3-16 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-section-3-16 .u-image-1 {
+  width: 150px;
+  height: 150px;
+  object-position: 50% 22%;
+  margin: 0 auto 0 10px;
+}
+
+.u-section-3-16 .u-layout-cell-2 {
+  min-height: 293px;
+}
+
+.u-section-3-16 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3-16 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 0;
+}
+
+.u-section-3-16 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 22px 0 0;
+}
+
+.u-section-3-16 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 18px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-16 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-3-16 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3-16 .u-layout-cell-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3-16 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-16 .u-layout-wrap-1 {
+    width: 720px;
+    margin-top: 58px;
+    margin-bottom: 58px;
+  }
+
+  .u-section-3-16 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3-16 .u-image-1 {
+    width: 132px;
+    height: 132px;
+    margin-left: 0;
+  }
+
+  .u-section-3-16 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-16 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3-16 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3-16 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-16 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}.u-section-4-1 {
+  background-image: url("images/abstract-art.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-4-1 .u-sheet-1 {
+  min-height: 744px;
+}
+
+.u-section-4-1 .u-group-1 {
+  width: 800px;
+  min-height: 637px;
+  margin: 60px auto 47px;
+}
+
+.u-section-4-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4-1 .u-image-1 {
+  width: 275px;
+  height: 380px;
+  object-position: 50% 22%;
+  background-position: 50% 22%;
+  margin: 0 auto;
+}
+
+.u-section-4-1 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 20px 0 0;
+}
+
+.u-section-4-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 0 0;
+}
+
+.u-section-4-1 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-4-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-4-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-4-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4-1 .u-group-1 {
+    width: 340px;
+  }
+}.u-section-4-2 {
+  background-image: url("images/abstract-art.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-4-2 .u-sheet-1 {
+  min-height: 744px;
+}
+
+.u-section-4-2 .u-group-1 {
+  width: 800px;
+  min-height: 637px;
+  margin: 60px auto 47px;
+}
+
+.u-section-4-2 .u-container-layout-1 {
+  padding: 30px 33px;
+}
+
+.u-section-4-2 .u-image-1 {
+  width: 275px;
+  height: 380px;
+  object-position: 50% 22%;
+  background-position: 50% 22%;
+  margin: 0 auto;
+}
+
+.u-section-4-2 .u-text-1 {
+  line-height: 1.8;
+  font-style: normal;
+  margin: 20px 34px 0 20px;
+}
+
+.u-section-4-2 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 20px 27px 0;
+}
+
+.u-section-4-2 .u-text-3 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 20px 27px 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-4-2 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-4-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4-2 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-4-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4-2 .u-group-1 {
+    width: 340px;
+  }
+}.u-section-1 {
+  background-image: url("images/MIKUNI.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 775px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 368px;
+  width: 368px;
+  background-image: url("images/mkgif.gif");
+  background-position: 50% 50%;
+  margin: 161px auto 0 386px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.25rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 675px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 352px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 172px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 614px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 340px;
+    width: 340px;
+    margin-top: 128px;
+    margin-left: 0;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/mikuniweb1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 269px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 33px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: 33px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}.u-block-bdac-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-block-bdac-5 {
+  position: absolute;
+  left: calc(((100% - 1140px) / 2)  + -63px);
+  width: 60px;
+  height: 60px;
+  background-image: none;
+  right: auto;
+}
+
+.u-block-bdac-6 {
+  position: absolute;
+  left: auto;
+  width: 60px;
+  height: 60px;
+  background-image: none;
+  right: calc(((100% - 1140px) / 2)  + -14px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-bdac-5 {
+    left: calc(((100% - 940px) / 2)  + -52px);
+  }
+
+  .u-block-bdac-6 {
+    right: calc(((100% - 940px) / 2)  + -12px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-bdac-5 {
+    left: calc(((100% - 720px) / 2)  + -40px);
+  }
+
+  .u-block-bdac-6 {
+    right: calc(((100% - 720px) / 2)  + -9px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-bdac-5 {
+    left: calc(((100% - 540px) / 2)  + -30px);
+  }
+
+  .u-block-bdac-6 {
+    right: calc(((100% - 540px) / 2)  + -7px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-bdac-5 {
+    left: calc(((100% - 340px) / 2)  + -19px);
+  }
+
+  .u-block-bdac-6 {
+    right: calc(((100% - 340px) / 2)  + -4px);
+  }
+}.u-block-ea55-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-block-ea55-3 {
+  position: absolute;
+  left: calc(((100% - 1140px) / 2)  + 287px);
+  width: 70px;
+  height: 70px;
+  background-image: none;
+  right: auto;
+}
+
+.u-block-ea55-4 {
+  background-image: none;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  position: absolute;
+  right: calc(((100% - 1140px) / 2)  + 299px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-ea55-3 {
+    left: calc(((100% - 940px) / 2)  + 237px);
+  }
+
+  .u-block-ea55-4 {
+    right: calc(((100% - 940px) / 2)  + 247px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-ea55-3 {
+    left: calc(((100% - 720px) / 2)  + 182px);
+  }
+
+  .u-block-ea55-4 {
+    right: calc(((100% - 720px) / 2)  + 189px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-ea55-3 {
+    left: calc(((100% - 540px) / 2)  + 137px);
+  }
+
+  .u-block-ea55-4 {
+    right: calc(((100% - 540px) / 2)  + 142px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-ea55-3 {
+    left: calc(((100% - 340px) / 2)  + 86px);
+  }
+
+  .u-block-ea55-4 {
+    right: calc(((100% - 340px) / 2)  + 89px);
+  }
+}.u-section-5 {
+  background-image: url("images/mikuniweb2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 400px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-5 .u-image-1 {
+  width: 631px;
+  height: 409px;
+  margin: -2px -61px -7px auto;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 700;
+  margin: 103px auto 0;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  padding: 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 16px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 330px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 470px;
+    height: 305px;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 373px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 253px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 360px;
+    height: 234px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 380px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 239px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 340px;
+    height: 221px;
+  }
+}.u-section-6 {
+  background-image: url("images/RingedOrneryHousefly-size_restricted.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 757px;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  padding: 0;
+}
+
+.u-section-6 .u-gallery-1 {
+  width: 826px;
+  height: 545px;
+  grid-gap: 10px 10px;
+  margin: 40px auto 60px;
+}
+
+.u-section-6 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-1 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-2 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-3 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-4 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-4 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-5 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-5 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-6 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-6 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-7 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-7 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-item-8 {
+  margin-right: 0;
+}
+
+.u-section-6 .u-over-slide-8 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-6 .u-carousel-thumbnails-1 {
+  padding-top: 10px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-2 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-3 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-6 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-6 .u-carousel-control-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-2 {
+    width: 95px;
+    height: 95px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-3 {
+    width: 95px;
+    height: 95px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 478px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    width: 720px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-2 {
+    width: 81px;
+    height: 81px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-3 {
+    width: 81px;
+    height: 81px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    width: 540px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-2 {
+    width: 59px;
+    height: 59px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-3 {
+    width: 59px;
+    height: 59px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 226px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-2 {
+    width: 34px;
+    height: 34px;
+  }
+
+  .u-section-6 .u-carousel-thumbnail-3 {
+    width: 34px;
+    height: 34px;
+  }
+}
